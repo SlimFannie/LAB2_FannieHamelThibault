@@ -1,0 +1,4 @@
+repository "LAB2_FannieHamelThibault@Fannistan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
